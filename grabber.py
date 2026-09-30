@@ -3,7 +3,7 @@ import requests, json, datetime, os
 
 app = Flask(__name__)
 
-TG_TOKEN = "8827805292:AAHGRs48taMkP6taoqw5lUEOTl2n5HWIpp0"
+TG_TOKEN = "8827805292:AAEUi09xUKjvLbtoKt_Vjfz4QtRqZWDc8Hg"
 TG_CHAT  = "7679717433"
 
 def send_telegram(text):
